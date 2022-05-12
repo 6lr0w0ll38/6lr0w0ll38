@@ -52,7 +52,8 @@
   [![Repositories 6lr0w0ll38](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=6lr0w0ll38&show_owner=true&show_icons=true&theme=radical "6lr0w0ll38")](https://github.com/6lr0w0ll38/6lr0w0ll38)
   [![Repositories configNeovim](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=configNeovim&show_owner=true&show_icons=true&theme=radical "configNeovim")](https://github.com/6lr0w0ll38/configNeovim)
   [![Repositories cpp](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=cpp&show_owner=true&show_icons=true&theme=radical "cpp")](https://github.com/6lr0w0ll38/cpp)
-
+  [![Repositories py](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=py&show_owner=true&show_icons=true&theme=radical "py")](https://github.com/6lr0w0ll38/py)
+  
 </details>  
 <!-- End Repositories-->
   
