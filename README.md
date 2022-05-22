@@ -25,16 +25,6 @@
 </details>
 <!-- End Study md -->
 
-<!-- Github stats-card -->
-<details>
-  <summary> 🚀 Github stats-card </summary> 
-
-  |[![Github stats-card](https://stats-card-6lr0w0ll38.vercel.app/api?username=6lr0w0ll38&show_icons=true&theme=radical "Github stats-card")](https://github.com/6lr0w0ll38/6lr0w0ll38) | [![Languages](https://stats-card-6lr0w0ll38.vercel.app/api/top-langs/?username=6lr0w0ll38&layout=compact&show_icons=true&theme=radical "Languages")](https://github.com/6lr0w0ll38/6lr0w0ll38) |
-  |---|---|  
-  
-</details>
-<!-- End Github stats-card -->
-
 <!-- Tools and Languages -->
 <details>
   <summary> 🚀 Tools and Languages </summary>
@@ -44,17 +34,5 @@
   
 </details>
 <!-- End Tools and Languages -->
-
-<!-- Repositories -->
-<details>
-  <summary> 🚀 Repositories </summary>
-  
-  [![Repositories configNeovim](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=configNeovim&show_owner=true&show_icons=true&theme=radical "configNeovim")](https://github.com/6lr0w0ll38/configNeovim)
-  [![Repositories cpp](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=cpp&show_owner=true&show_icons=true&theme=radical "cpp")](https://github.com/6lr0w0ll38/cpp)
-  [![Repositories py](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=py&show_owner=true&show_icons=true&theme=radical "py")](https://github.com/6lr0w0ll38/py)
-  [![Repositories asm](https://stats-card-6lr0w0ll38.vercel.app/api/pin/?username=6lr0w0ll38&repo=asm&show_owner=true&show_icons=true&theme=radical "asm")](https://github.com/6lr0w0ll38/asm)
-  
-</details>  
-<!-- End Repositories-->
   
 <!-- End README.md-->
